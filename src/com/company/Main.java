@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int fibUp2 = 1;
+        int fibUp2 = 10;
 
         int[] fib = new int[fibUp2+2];
         fib[0]=0;
